@@ -115,9 +115,3 @@ elif submit4:
     else:
         st.write("Please uplaod the resume")
 
-
-   
-
-
-
-
