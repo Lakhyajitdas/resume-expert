@@ -1,0 +1,11 @@
+prefix=c:/Users/2019d/OneDrive/Desktop/Project/Resume-ATS-ML/venv/Library 
+exec_prefix=c:/Users/2019d/OneDrive/Desktop/Project/Resume-ATS-ML/venv/Library 
+libdir=c:/Users/2019d/OneDrive/Desktop/Project/Resume-ATS-ML/venv/Library/lib 
+includedir=c:/Users/2019d/OneDrive/Desktop/Project/Resume-ATS-ML/venv/Library/include 
+modules=0 
+Name: libXML 
+Version: 2.10.4 
+Description: libXML library version2. 
+Requires: 
+Libs: -Lc:/Users/2019d/OneDrive/Desktop/Project/Resume-ATS-ML/venv/Library/lib -lxml2 -liconv -lz 
+Cflags: -Ic:/Users/2019d/OneDrive/Desktop/Project/Resume-ATS-ML/venv/Library/include/libxml 

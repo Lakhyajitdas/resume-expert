@@ -1,0 +1,10 @@
+prefix=c:/Users/2019d/OneDrive/Desktop/Project/Resume-ATS-ML/venv/Library
+libdir=c:/Users/2019d/OneDrive/Desktop/Project/Resume-ATS-ML/venv/Library/lib
+includedir=c:/Users/2019d/OneDrive/Desktop/Project/Resume-ATS-ML/venv/Library/include
+
+Name: poppler
+Description: PDF rendering library
+Version: 22.12.0
+
+Libs: -L${libdir} -lpoppler
+Cflags: -I${includedir}/poppler
